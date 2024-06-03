@@ -4,9 +4,9 @@ This MATLAB code is used to convert the raw data of SSRF BL13U 2D XRF mapping to
 
 The raw data is stored in the "FullWaveForm" folder as .txt files with the format "x(row)_xxx(column).txt".
 
-Intensity correction is achieved using the D1.txt in the parent directory
+Intensity correction is achieved using the D1.txt in the parent directory.
 
-Run the code in the "FullWaveForm" folder
+Run the code in the "FullWaveForm" folder.
 
 Created by Dr. Yu Li. E-mail: liyu AT ihep.ac.cn
 
